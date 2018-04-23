@@ -34,7 +34,7 @@ public:
 		}
 		int sum = 0;
 		for(int i = 0; i < ratings.size(); i++){
-			cout << "-" << dp[i] << endl;
+			//cout << "-" << dp[i] << endl;
 			sum += dp[i];
 		}
 		return sum;
