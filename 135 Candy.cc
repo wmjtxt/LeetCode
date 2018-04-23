@@ -5,6 +5,30 @@
  /// @quote   :
  /// 
  //哈哈，原来动规也没那么难，从拿到题目一筹莫展，觉得无从下手，到用动规的思想把代码写全，再一一解决无法通过的例子，直到AC,这种感觉很爽！
+
+/*
+题目描述：
+135.Candy
+
+There are N children standing in a line. Each child is assigned a rating value.
+You are giving candies to these children subjected to the following requirements:
+
+Each child must have at least one candy.
+Children with a higher rating get more candies than their neighbors.
+What is the minimum candies you must give?
+
+Example 1:
+
+Input: [1,0,2]
+Output: 5
+Explanation: You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
+Example 2:
+
+Input: [1,2,2]
+Output: 4
+Explanation: You can allocate to the first, second and third child with 1, 2, 1 candies respectively.
+             The third child gets 1 candy because it satisfies the above two conditions.
+*/
  
 #include <iostream>
 #include <vector>
@@ -41,7 +65,7 @@ public:
 	}
 };
 
-
+//测试
 int main(){
 	Solution s;
 	int n;
