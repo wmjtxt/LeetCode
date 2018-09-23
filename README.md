@@ -5,28 +5,29 @@ LeetCode
 
 |Problems|Description && Solution|remarks|
 |----------|:-------------------------------:|:-----:|
-|[1. Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution]()||
-|[2. Add Two Numbers]()|[Solution]()||
-|[3. Longest Substring Without Repeating Characters]()|[Solution]()||
-|[4. Median of Two Sorted Arrays]()|[Solution]()||
-|[4. Median of Two Sorted Arrays]()|[Solution]()|python|
-|[5. Longest Palindramic Substring]()|[Solution]()||
-|[6. ZigZag Conversion]()|[Solution]()||
-|[6. ZigZag Conversion]()|[Solution]()||
-|[7. Reverse Integer]()|[Solution]()||
-|[8. String to Integer(atoi)]()|[Solution]()||
-|[9. Palindrome Number]()|[Solution]()||
-|[132.Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/132%20Palindrome%20Partitioning%20II.cc)||
-|[135.Candy](https://leetcode.com/problems/candy/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/135%20Candy.cc)||
-|[461. Hamming Distance]()|[Solution]()||
-|[535. Encode and Decode TinyURL]()|[Solution]()||
-|[617. Merge Two Binary Trees]()|[Solution]()||
-|[709. To Lower Case]()|[Solution]()||
-|[771. Jewels and Stones]()|[Solution]()||
-|[804. Unique Morse Code Words]()|[Solution]()||
-|[807. Max Increase to Keep City Skyline]()|[Solution]()||
-|[814. Binary Tree Prunning]()|[Solution]()||
-|[832. Flipping an Image]()|[Solution]()||
-|[890. Find and Replace Pattern]()|[Solution]()||
-|[905. Sort Array By Parity]()|[Solution]()||
+|[1. Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/001.%20Two%20Sum.cpp)||
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description)/|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/002.%20Add%20Two%20Numbers.cpp)||
+|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/003.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)||
+|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/004.%20Median%20of%20Two%20Sorted%20Arrays.cpp)||
+|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/004.%20Median%20of%20Two%20Sorted%20Arrays.py)|python|
+|[5. Longest Palindramic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/005.%20Longest%20Palindromic%20Substring.cpp)||
+|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/006.%20ZigZag%20Conversion.cpp)|1|
+|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/006.%20ZigZag%20Conversion1.cpp)|2|
+|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/007.%20Reverse%20Integer.cpp)||
+|[8. String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/008.%20String%20to%20Integer%20(atoi).cpp)||
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/009.%20Palindrome%20Number.cpp)||
+|[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/132%20Palindrome%20Partitioning%20II.cc)||
+|[135. Candy](https://leetcode.com/problems/candy/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/135%20Candy.cc)||
+|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/461.%20Hamming%20Distance.cpp)||
+|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
+|[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/617.%20Merge%20Two%20Binary%20Trees.cpp)|binary tree|
+|[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/654.%20Maximum%20Binary%20Tree.cpp)||
+|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/709.%20To%20Lower%20Case.cpp)||
+|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/771.%20Jewels%20and%20Stones.cpp)||
+|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/804.%20Unique%20Morse%20Code%20Words.cpp)||
+|[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)||
+|[814. Binary Tree Prunning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/814.%20Binary%20Tree%20Pruning.cpp)||
+|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/832.%20Flipping%20an%20Image.cpp)||
+|[890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/890.%20Find%20and%20Replace%20Pattern.cpp)||
+|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/905.%20Sort%20Array%20By%20Parity.cpp)||
 |[]()|[Solution]()||
