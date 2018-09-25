@@ -28,6 +28,7 @@ LeetCode
 |[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)||
 |[814. Binary Tree Prunning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/814.%20Binary%20Tree%20Pruning.cpp)||
 |[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/832.%20Flipping%20an%20Image.cpp)||
+|[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/861.%20Score%20After%20Flipping%20Matrix.cpp)||
 |[890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/890.%20Find%20and%20Replace%20Pattern.cpp)||
 |[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/905.%20Sort%20Array%20By%20Parity.cpp)||
 |[]()|[Solution]()||
