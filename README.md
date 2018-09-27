@@ -25,6 +25,7 @@ LeetCode
 |[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/654.%20Maximum%20Binary%20Tree.cpp)||
 |[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/709.%20To%20Lower%20Case.cpp)||
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/771.%20Jewels%20and%20Stones.cpp)||
+|[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|Graph DFS|
 |[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/804.%20Unique%20Morse%20Code%20Words.cpp)||
 |[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)||
 |[814. Binary Tree Prunning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/814.%20Binary%20Tree%20Pruning.cpp)||
