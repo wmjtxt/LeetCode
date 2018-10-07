@@ -19,6 +19,7 @@ LeetCode
 |[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/132%20Palindrome%20Partitioning%20II.cc)||
 |[135. Candy](https://leetcode.com/problems/candy/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/135%20Candy.cc)||
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/162.%20Find%20Peak%20Element.cpp)|与852一个类型,这里的解法也一样|
+|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/419.%20Battleships%20in%20a%20Board.cpp)||
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/461.%20Hamming%20Distance.cpp)||
 |[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
 |[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/537.%20Complex%20Number%20Multiplication.cpp)||
