@@ -2,6 +2,10 @@ LeetCode
 ====
 
 ****
+|Solved Question|
+|:-------------:|
+|<font color=blue>46/913</font>|
+****
 
 |Problems|Description && Solution|remarks|
 |----------|:-------------------------------:|:-----:|
