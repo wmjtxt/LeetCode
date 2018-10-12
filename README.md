@@ -26,8 +26,11 @@ LeetCode
 |[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/537.%20Complex%20Number%20Multiplication.cpp)||
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/561.%20Array%20Partition%20I.cpp)||
 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/617.%20Merge%20Two%20Binary%20Trees.cpp)|binary tree|
+|[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/647.%20Palindromic%20Substrings.cpp)|DP|
+|[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/647.%20Palindromic%20Substrings%206LinesNoDP.cpp)|大神解法|
 |[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/654.%20Maximum%20Binary%20Tree.cpp)||
 |[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/657.%20Robot%20Return%20to%20Origin.cpp)||
+|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)||
 |[701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)||
 |[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/709.%20To%20Lower%20Case.cpp)||
 |[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/728.%20Self%20Dividing%20Numbers.cpp)||
@@ -42,6 +45,7 @@ LeetCode
 |[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/861.%20Score%20After%20Flipping%20Matrix.cpp)||
 |[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/867.%20Transpose%20Matrix.cpp)||
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/876.%20Middle%20of%20the%20Linked%20List.cpp)||
+|[877. Stone Game](https://leetcode.com/problems/stone-game/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/877.%20Stone%20Game.cpp)|DP，但可以直接`return true`|
 |[883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/883.%20Projection%20Area%20of%203D%20Shapes.cpp)||
 |[885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/885.%20Spiral%20Matrix%20III.cpp)||
 |[890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/890.%20Find%20and%20Replace%20Pattern.cpp)||
