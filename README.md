@@ -29,6 +29,7 @@ LeetCode
 |[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
 |[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/537.%20Complex%20Number%20Multiplication.cpp)||
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/561.%20Array%20Partition%20I.cpp)||
+|[590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/590.%20N-ary%20Tree%20Postorder%20Traversal.cpp)||
 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/617.%20Merge%20Two%20Binary%20Trees.cpp)|binary tree|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/647.%20Palindromic%20Substrings.cpp)|DP|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/647.%20Palindromic%20Substrings%206LinesNoDP.cpp)|大神解法|
