@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|<font color=blue>46/913</font>|
+|<font color=blue>50/917</font>|
 ****
 
 |Problems|Description && Solution|remarks|
@@ -20,10 +20,14 @@ LeetCode
 |[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/007.%20Reverse%20Integer.cpp)||
 |[8. String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/008.%20String%20to%20Integer%20(atoi).cpp)||
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/009.%20Palindrome%20Number.cpp)||
+|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/010.%20Regular%20Expression%20Matching1.cpp)|大神解法|
+|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/010.%20Regular%20Expression%20Matching2.cpp)|大神解法|
+|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/010.%20Regular%20Expression%20Matching_wa.cpp)|my wrong answer|
 |[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/132%20Palindrome%20Partitioning%20II.cc)||
 |[135. Candy](https://leetcode.com/problems/candy/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/135%20Candy.cc)||
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/162.%20Find%20Peak%20Element.cpp)|与852一个类型,这里的解法也一样|
 |[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/338.%20Counting%20Bits.cpp)|与852一个类型,这里的解法也一样|
+|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/413.%20Arithmetic%20Slices.cpp)|DP|
 |[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/419.%20Battleships%20in%20a%20Board.cpp)||
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/461.%20Hamming%20Distance.cpp)||
 |[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
@@ -38,11 +42,14 @@ LeetCode
 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)||
 |[701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)||
 |[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/709.%20To%20Lower%20Case.cpp)||
+|[712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings-dp.cpp)|DP|
+|[712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.cpp)|my wrong answer|
 |[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/728.%20Self%20Dividing%20Numbers.cpp)||
 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/763.%20Partition%20Labels.cpp)||
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/771.%20Jewels%20and%20Stones.cpp)||
 |[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|Graph DFS|
 |[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/804.%20Unique%20Morse%20Code%20Words.cpp)||
+|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/806.%20Number%20of%20Lines%20To%20Write%20String.cpp)||
 |[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)||
 |[814. Binary Tree Prunning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/814.%20Binary%20Tree%20Pruning.cpp)||
 |[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/832.%20Flipping%20an%20Image.cpp)||
