@@ -26,7 +26,7 @@ LeetCode
 |[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CSolution/132%20Palindrome%20Partitioning%20II.cc)||
 |[135. Candy](https://leetcode.com/problems/candy/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CSolution/135%20Candy.cc)||
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/162.%20Find%20Peak%20Element.cpp)|与852一个类型,这里的解法也一样|
-|[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/338.%20Counting%20Bits.cpp)|与852一个类型,这里的解法也一样|
+|[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/338.%20Counting%20Bits.cpp)||
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/413.%20Arithmetic%20Slices.cpp)|DP|
 |[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/419.%20Battleships%20in%20a%20Board.cpp)||
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/461.%20Hamming%20Distance.cpp)||
