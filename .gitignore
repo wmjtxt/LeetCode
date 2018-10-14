@@ -2,3 +2,6 @@
 *.exe
 *.class
 *.o
+*.py
+*.pyc
+*.javac
