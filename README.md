@@ -27,6 +27,8 @@ LeetCode
 |Hard|[135. Candy](https://leetcode.com/problems/candy/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CSolution/135%20Candy.cc)||
 |Medium|[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/162.%20Find%20Peak%20Element.cpp)|与852一个类型,这里的解法也一样|
 |Medium|[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/338.%20Counting%20Bits.cpp)||
+|Medium|[343. Integer Break](https://leetcode.com/problems/integer-break/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/343.%20Integer%20Break.cpp)|DP|
+|Easy|[344. Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/344.%20Reverse%20String.cpp)|字符串|
 |Medium|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/413.%20Arithmetic%20Slices.cpp)|DP|
 |Medium|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/419.%20Battleships%20in%20a%20Board.cpp)||
 |Easy|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/461.%20Hamming%20Distance.cpp)||
