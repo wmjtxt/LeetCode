@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|<font color=blue>52/917</font>|
+|<font color=blue>55/917</font>|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -32,6 +32,7 @@ LeetCode
 |Medium|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/413.%20Arithmetic%20Slices.cpp)|DP|
 |Medium|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/419.%20Battleships%20in%20a%20Board.cpp)||
 |Easy|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/461.%20Hamming%20Distance.cpp)||
+|Easy|[476. Number Complement](https://leetcode.com/problems/number-complement/description/)|[Solution1](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement.cpp)<br>[Solution2](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement-notand.cpp)|移位运算|
 |Medium|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
 |Medium|[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/537.%20Complex%20Number%20Multiplication.cpp)||
 |Easy|[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/557.%20Reverse%20Words%20in%20a%20String%20III.cpp)|字符串|
