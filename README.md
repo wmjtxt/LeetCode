@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|<font red=blue>55/917</font>|
+|<font red=blue>57/917</font>|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -36,6 +36,7 @@ LeetCode
 |Medium|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
 |Medium|[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/537.%20Complex%20Number%20Multiplication.cpp)||
 |Easy|[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/557.%20Reverse%20Words%20in%20a%20String%20III.cpp)|字符串|
+|Easy|[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution-recursion](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/559.%20Maximum%20Depth%20of%20N-ary%20Tree-recursion.cpp)|求多叉树的深度,递归方法|
 |Easy|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/561.%20Array%20Partition%20I.cpp)||
 |Easy|[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|递归|
 |Easy|[590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/590.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|递归|
@@ -50,6 +51,7 @@ LeetCode
 |Easy|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/709.%20To%20Lower%20Case.cpp)||
 |Medium|[712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings-dp.cpp)|DP|
 |Medium|[712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.cpp)|my wrong answer|
+|Medium|[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)|这道太难了，看了看大神的解法|
 |Easy|[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/728.%20Self%20Dividing%20Numbers.cpp)||
 |Medium|[763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/763.%20Partition%20Labels.cpp)||
 |Easy|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/771.%20Jewels%20and%20Stones.cpp)||
