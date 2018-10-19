@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|<font red=blue>57/917</font>|
+|<font color=red>57/917</font>|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
