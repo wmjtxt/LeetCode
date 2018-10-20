@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|<font color=red>57/917</font>|
+|<font color=red>58/917</font>|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -59,6 +59,7 @@ LeetCode
 |Easy|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/804.%20Unique%20Morse%20Code%20Words.cpp)||
 |Easy|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/806.%20Number%20of%20Lines%20To%20Write%20String.cpp)||
 |Medium|[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)||
+|Medium|[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/811.%20Subdomain%20Visit%20Count.cpp)|被substr()坑惨了，以后再用一定两个参数都填上|
 |Medium|[814. Binary Tree Prunning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/814.%20Binary%20Tree%20Pruning.cpp)||
 |Easy|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/832.%20Flipping%20an%20Image.cpp)||
 |Easy|[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|162|
