@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|<font color=red>58/917</font>|
+|<font color=red>62/917</font>|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -33,6 +33,7 @@ LeetCode
 |Medium|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/419.%20Battleships%20in%20a%20Board.cpp)||
 |Easy|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/461.%20Hamming%20Distance.cpp)||
 |Easy|[476. Number Complement](https://leetcode.com/problems/number-complement/description/)|[Solution1](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement.cpp),[Solution2](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement-notand.cpp)|移位运算|
+|Easy|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/500.%20Keyboard%20Row.cpp)||
 |Medium|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
 |Medium|[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/537.%20Complex%20Number%20Multiplication.cpp)||
 |Easy|[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/557.%20Reverse%20Words%20in%20a%20String%20III.cpp)|字符串|
@@ -66,6 +67,7 @@ LeetCode
 |Easy|[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|162|
 |Medium|[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/861.%20Score%20After%20Flipping%20Matrix.cpp)||
 |Easy|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/867.%20Transpose%20Matrix.cpp)||
+|Easy|[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/872.%20Leaf-Similar%20Trees.cpp)||
 |Easy|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/876.%20Middle%20of%20the%20Linked%20List.cpp)||
 |Medium|[877. Stone Game](https://leetcode.com/problems/stone-game/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/877.%20Stone%20Game.cpp)|DP，但可以直接`return true`|
 |Easy|[883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/883.%20Projection%20Area%20of%203D%20Shapes.cpp)||
