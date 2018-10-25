@@ -60,7 +60,7 @@ LeetCode
 |Easy|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/804.%20Unique%20Morse%20Code%20Words.cpp)||
 |Easy|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/806.%20Number%20of%20Lines%20To%20Write%20String.cpp)||
 |Medium|[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.cpp)||
-|Easy|[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/811.%20Subdomain%20Visit%20Count.cpp)|被substr()坑惨了，以后再用一定两个参数都填上|
+|Easy|[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/811.%20Subdomain%20Visit%20Count.cpp)|被substr()坑惨了|
 |Medium|[814. Binary Tree Prunning](https://leetcode.com/problems/binary-tree-pruning/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/814.%20Binary%20Tree%20Pruning.cpp)||
 |Easy|[821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/821.%20Shortest%20Distance%20to%20a%20Character.cpp)|看了大神解法后自己写的|
 |Easy|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/832.%20Flipping%20an%20Image.cpp)||
@@ -74,7 +74,7 @@ LeetCode
 |Easy|[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommoon-words-from-two-sentences/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/884.%20Uncommon%20Words%20from%20Two%20Sentences.cpp)||
 |Medium|[885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/885.%20Spiral%20Matrix%20III.cpp)||
 |Medium|[890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/890.%20Find%20and%20Replace%20Pattern.cpp)||
-|Medium|[893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/893.%20Groups%20of%20Special-Equivalent%20Strings.cpp)|提交后看了大神解法，思路是一样的，但人家只用了几行就实现了，高下立见啊, 还需要多多学习, 就算自己会做的题也要看看大神解法|
+|Medium|[893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/893.%20Groups%20of%20Special-Equivalent%20Strings.cpp)||
 |Easy|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/905.%20Sort%20Array%20By%20Parity.cpp)||
 |Easy|[908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/908.%20Smallest%20Range%20I.cpp)||
 ||[]()|[Solution]()||
