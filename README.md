@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|<font color=red>62/917</font>|
+|64/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -56,6 +56,7 @@ LeetCode
 |Easy|[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/728.%20Self%20Dividing%20Numbers.cpp)||
 |Medium|[763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/763.%20Partition%20Labels.cpp)||
 |Easy|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/771.%20Jewels%20and%20Stones.cpp)||
+|Medium|[791. Custom Sort String](https://leetcode.com/problems/custom sort string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/791.%20Custom%20Sort%20String.cpp)|string|
 |Medium|[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|Graph DFS|
 |Easy|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/804.%20Unique%20Morse%20Code%20Words.cpp)||
 |Easy|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/806.%20Number%20of%20Lines%20To%20Write%20String.cpp)||
