@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|64/917|
+|65/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -55,6 +55,7 @@ LeetCode
 |Medium|[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)|这道太难了，看了看大神的解法|
 |Easy|[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/728.%20Self%20Dividing%20Numbers.cpp)||
 |Medium|[763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/763.%20Partition%20Labels.cpp)||
+|Easy|[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/766.%20Toeplitz%20Matrix.cpp)|太简单了|
 |Easy|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/771.%20Jewels%20and%20Stones.cpp)||
 |Medium|[791. Custom Sort String](https://leetcode.com/problems/custom sort string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/791.%20Custom%20Sort%20String.cpp)|string|
 |Medium|[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|Graph DFS|
