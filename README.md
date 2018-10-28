@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|65/917|
+|66/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -39,6 +39,7 @@ LeetCode
 |Easy|[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/557.%20Reverse%20Words%20in%20a%20String%20III.cpp)|字符串|
 |Easy|[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution-recursion](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/559.%20Maximum%20Depth%20of%20N-ary%20Tree-recursion.cpp)|求多叉树的深度,递归方法|
 |Easy|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/561.%20Array%20Partition%20I.cpp)||
+|Easy|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/566.%20Reshape%20the%20Matrix.cpp)|i/c,i%c|
 |Easy|[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/589.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|递归|
 |Easy|[590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/590.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|递归|
 |Easy|[595. Big Countries](https://leetcode.com/problems/big-countries/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/SQL/595.%20Big%20Countries.sql)|SQL|
