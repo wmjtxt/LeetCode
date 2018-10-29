@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|66/917|
+|67/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -31,6 +31,7 @@ LeetCode
 |Easy|[344. Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/344.%20Reverse%20String.cpp)|字符串|
 |Medium|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/413.%20Arithmetic%20Slices.cpp)|DP|
 |Medium|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/419.%20Battleships%20in%20a%20Board.cpp)||
+|Easy|[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp)|要求不用辅助空间，时间O(n)，<br>只能参考大神解法|
 |Easy|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/461.%20Hamming%20Distance.cpp)||
 |Easy|[476. Number Complement](https://leetcode.com/problems/number-complement/description/)|[Solution1](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement.cpp),[Solution2](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement-notand.cpp)|移位运算|
 |Easy|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/500.%20Keyboard%20Row.cpp)||
