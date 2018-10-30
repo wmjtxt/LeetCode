@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|67/917|
+|69/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -23,6 +23,7 @@ LeetCode
 |Hard|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/010.%20Regular%20Expression%20Matching1.cpp)|大神解法|
 |Hard|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/010.%20Regular%20Expression%20Matching2.cpp)|大神解法|
 |Hard|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/010.%20Regular%20Expression%20Matching_wa.cpp)|my wrong answer|
+|Easy|[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|Binary Tree|
 |Hard|[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CSolution/132%20Palindrome%20Partitioning%20II.cc)||
 |Hard|[135. Candy](https://leetcode.com/problems/candy/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CSolution/135%20Candy.cc)||
 |Medium|[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/162.%20Find%20Peak%20Element.cpp)|与852一个类型,这里的解法也一样|
@@ -31,6 +32,7 @@ LeetCode
 |Easy|[344. Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/344.%20Reverse%20String.cpp)|字符串|
 |Medium|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/413.%20Arithmetic%20Slices.cpp)|DP|
 |Medium|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/419.%20Battleships%20in%20a%20Board.cpp)||
+|Easy|[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/429.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)|Tree|
 |Easy|[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp)|要求不用辅助空间，时间O(n)，<br>只能参考大神解法|
 |Easy|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/461.%20Hamming%20Distance.cpp)||
 |Easy|[476. Number Complement](https://leetcode.com/problems/number-complement/description/)|[Solution1](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement.cpp),[Solution2](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/476.%20Number%20Complement-notand.cpp)|移位运算|
