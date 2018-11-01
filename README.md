@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|70/917|
+|71/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -74,6 +74,7 @@ LeetCode
 |Easy|[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|162|
 |Medium|[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/861.%20Score%20After%20Flipping%20Matrix.cpp)||
 |Easy|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/867.%20Transpose%20Matrix.cpp)||
+|Easy|[868. Binary Gap](https://leetcode.com/problems/binary-gap/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/868.%20Binary%20Gap.cpp)||
 |Easy|[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/872.%20Leaf-Similar%20Trees.cpp)||
 |Easy|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/876.%20Middle%20of%20the%20Linked%20List.cpp)||
 |Medium|[877. Stone Game](https://leetcode.com/problems/stone-game/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/877.%20Stone%20Game.cpp)|DP，但可以直接`return true`|
