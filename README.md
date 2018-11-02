@@ -52,6 +52,7 @@ LeetCode
 |Medium|[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/647.%20Palindromic%20Substrings%206LinesNoDP.cpp)|大神解法|
 |Medium|[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/654.%20Maximum%20Binary%20Tree.cpp)||
 |Easy|[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/657.%20Robot%20Return%20to%20Origin.cpp)||
+|Easy|[682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/682.%20Baseball%20Game.cpp)||
 |Easy|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/700.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)||
 |Medium|[701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)||
 |Easy|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/709.%20To%20Lower%20Case.cpp)||
