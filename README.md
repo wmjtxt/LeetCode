@@ -30,6 +30,7 @@ LeetCode
 |Medium|[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/338.%20Counting%20Bits.cpp)||
 |Medium|[343. Integer Break](https://leetcode.com/problems/integer-break/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/343.%20Integer%20Break.cpp)|DP|
 |Easy|[344. Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/344.%20Reverse%20String.cpp)|字符串|
+|Easy|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/412.%20Fizz%20Buzz.cpp)||
 |Medium|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/413.%20Arithmetic%20Slices.cpp)|DP|
 |Medium|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/419.%20Battleships%20in%20a%20Board.cpp)||
 |Easy|[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/429.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)|Tree|
