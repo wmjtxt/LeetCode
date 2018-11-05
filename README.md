@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|75/917|
+|76/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -42,6 +42,7 @@ LeetCode
 |Easy|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/500.%20Keyboard%20Row.cpp)||
 |Medium|[535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/535.%20Encode%20and%20Decode%20TinyURL.cpp)||
 |Medium|[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/537.%20Complex%20Number%20Multiplication.cpp)||
+|Medium|[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/540.%20Single%20Element%20in%20a%20Sorted%20Array.cpp)|二分查找|
 |Easy|[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/557.%20Reverse%20Words%20in%20a%20String%20III.cpp)|字符串|
 |Easy|[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution-recursion](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/559.%20Maximum%20Depth%20of%20N-ary%20Tree-recursion.cpp)|求多叉树的深度,递归方法|
 |Easy|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/561.%20Array%20Partition%20I.cpp)||
