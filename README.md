@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|76/917|
+|77/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
@@ -23,6 +23,7 @@ LeetCode
 |Hard|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/010.%20Regular%20Expression%20Matching1.cpp)|大神解法|
 |Hard|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/010.%20Regular%20Expression%20Matching2.cpp)|大神解法|
 |Hard|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/010.%20Regular%20Expression%20Matching_wa.cpp)|my wrong answer|
+|Easy|[35. Search Insert Position](https://leetcode.com/problems/regular-expression-matching/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/035.%20Search%20Insert%20Position.cpp)|Binary search|
 |Easy|[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|Binary Tree|
 |Easy|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CppSolution/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)|Binary Tree|
 |Hard|[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)|[Solution](https://github.com/wmjtxt/LeetCode/blob/master/CSolution/132%20Palindrome%20Partitioning%20II.cc)||
