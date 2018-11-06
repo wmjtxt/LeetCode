@@ -15,10 +15,10 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
 		int n = nums.size();
-        int left = 0, mid = n/2, right = n-1;
+		int left = 0, mid = n/2, right = n-1;
 		while(1){
 			if(mid%2) mid = mid - 1;
-			if(nums[mid] == nums[mid+1]){
+			if(mid+1 < n && nums[mid] == nums[mid+1]){
 				left = mid+2;
 				mid = (left+right)/2;
 			}
