@@ -1,14 +1,10 @@
 LeetCode
 ====
 
-***停止刷题，开始看论文了，争取这学期投出去 --- 20181109***
-
-***I'm back --- 20181201***
-
 ****
 |Solved Question|
 |:-------------:|
-|77/917|
+|86/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
