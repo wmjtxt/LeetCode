@@ -4,7 +4,7 @@ LeetCode
 ****
 |Solved Question|
 |:-------------:|
-|89/917|
+|92/917|
 ****
 
 |Difficulty|Problems|Description && Solution|remarks|
